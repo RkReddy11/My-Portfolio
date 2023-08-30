@@ -17,7 +17,9 @@ Open Source Learner: I immerse myself in open source projects, absorbing insight
 #Credentials:
 
 🏆 Certified Kubernetes Application Developer (CKAD)
+
 ☁️ AWS Certified Solutions Architect - Associate (SOA - C03)
+
 🛡️ Certified Ethical Hacker (CEH - V10)
 
 #Beyond Tech
