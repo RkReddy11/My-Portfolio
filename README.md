@@ -4,7 +4,7 @@ A DevOps Engineer and Kubernetes Enthusiast
 
 Hey there! I'm RAM, a passionate DevOps enthusiast with a knack for building applications using Kubernetes. While I haven't contributed directly to open source projects yet, I'm an active observer, always learning and staying engaged with the community.
 
-#What I Do
+#**What I Do**
 
 DevOps Enthusiast: I'm all about optimizing development workflows, making software delivery smoother, and operations more efficient.
 
@@ -12,7 +12,7 @@ Kubernetes Aficionado: I specialize in building and managing applications with K
 
 Open Source Learner: I immerse myself in open source projects, absorbing insights and staying updated with industry trends.
 
-#Credentials:
+#**Credentials**:
 
 🏆 Certified Kubernetes Application Developer (CKAD)
 
@@ -20,7 +20,7 @@ Open Source Learner: I immerse myself in open source projects, absorbing insight
 
 🛡️ Certified Ethical Hacker (CEH - V10)
 
-#Beyond Tech
+#**Beyond Tech**
 
 When I'm not exploring the world of technology, I'm pursuing my other passions:
 
