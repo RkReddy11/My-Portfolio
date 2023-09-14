@@ -28,6 +28,6 @@ When I'm not exploring the world of technology, I'm pursuing my other passions:
 
 🏊 Swimming Lover: I find my peace in the water, one stroke at a time.
 
-#Let's Connect!
+#**Let's Connect!**
 
 Even though I'm currently an observer in the open source realm, I'm always open to connect and discuss tech trends. Feel free to reach out to me at rkreddii01@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ram-reddy-devopsengineer)
