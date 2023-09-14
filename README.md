@@ -24,11 +24,9 @@ Open Source Learner: I immerse myself in open source projects, absorbing insight
 
 When I'm not exploring the world of technology, I'm pursuing my other passions:
 
-🎬 Film Lover: Join me in my cinematic journey at cinephilia.in, where I share my thoughts on films.
+🎬 Film Lover: Join me in my cinematic journey at [CinePhilia](https://www.cinephilia.in/), where I share my thoughts on films.
 
-🏊 Swimming Enthusiast: I find my peace in the water, one stroke at a time.
-
-🏐 Volleyball Player: Embracing teamwork and competition on the volleyball court.
+🏊 Swimming Lover: I find my peace in the water, one stroke at a time.
 
 #Let's Connect!
 
